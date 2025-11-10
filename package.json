@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lucas.schiltz.github.io/",
+  "homepage": "https://lucas-sch-57.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
